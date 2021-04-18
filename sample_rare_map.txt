@@ -1,0 +1,23 @@
+Rarity: Rare
+Graven Secrets
+Scriptorium Map
+--------
+Map Tier: 10
+Atlas Region: Glennach Cairns
+Item Quantity: +94% (augmented)
+Item Rarity: +43% (augmented)
+Monster Pack Size: +28% (augmented)
+Quality: +20% (augmented)
+--------
+Item Level: 77
+--------
+Area is inhabited by Demons
+Players are Cursed with Temporal Chains, with 40% increased Effect
+Monsters have 294% increased Critical Strike Chance
++37% to Monster Critical Strike Multiplier
+Monsters deal 73% extra Physical Damage as Lightning
+Unique Boss deals 20% increased Damage
+Unique Boss has 25% increased Attack and Cast Speed
+Monsters reflect 18% of Elemental Damage
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.

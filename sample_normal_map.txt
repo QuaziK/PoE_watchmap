@@ -1,0 +1,9 @@
+Rarity: Normal
+Mausoleum Map
+--------
+Map Tier: 1
+Atlas Region: Tirn's End
+--------
+Item Level: 62
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.

@@ -1,0 +1,17 @@
+Rarity: Magic
+Twinned Jungle Valley Map of Bloodlines
+--------
+Map Tier: 7
+Atlas Region: Glennach Cairns
+Item Quantity: +38% (augmented)
+Item Rarity: +17% (augmented)
+Monster Pack Size: +11% (augmented)
+Quality: +9% (augmented)
+--------
+Item Level: 75
+--------
+20% more Magic Monsters
+Area contains two Unique Bosses
+Magic Monster Packs each have a Bloodline Mod
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.
